@@ -1,0 +1,38 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 1rem 4rem;
+    align-items: center;
+    justify-content: space-between;
+    max-height: 20vh;
+}
+.logo{
+    font-size: 1.4rem;
+}
+.logo span{
+    color: var(--clr--secondary);
+}
+li{
+    list-style: none;
+}
+.nav-link{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left:2rem;
+}
+.link{
+    font-size: 1rem;
+    margin: 1rem;
+}
+.right{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.login{
+    margin-right: 1rem;
+}
+
