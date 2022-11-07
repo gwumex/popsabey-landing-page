@@ -3,7 +3,10 @@
   --clr--secondary: #F97B43;
   --clr--gray: #33373D;
   --clr-white: #FFFFFF;
+  --pd--general: 1rem 4rem;
+
 }
+
 *{
   padding: 0;
   margin: 0;
@@ -23,9 +26,4 @@ a{
 }
 a:hover{
   opacity: 0.6;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
 }
