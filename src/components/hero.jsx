@@ -14,7 +14,7 @@ const Hero = () => {
         <div className="hero">
             <div className="details">
                 <div className="left-div-hero">
-                    <h1 className="heading">Drone piloting made simple</h1>
+                    <h1 className="heading">Abiola Salami</h1>
                     <p>Enroll to become certified in drone piloting and operations,
                         explore how drone technologies operate with structed learning.
                     </p>

@@ -41,7 +41,6 @@ const Footer = () => {
                     </ul>
                 </div>
             </div>
-            <span className='copyright'>copyright (c)  FlyOps 2022</span>
         </div>
     );
 }
